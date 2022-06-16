@@ -1,0 +1,18 @@
+# Ignore Bloop files
+.bloop
+.bsp
+
+# Ignore Metals files
+.metals
+
+# Ignore auto-generated VS Code settings from Metals
+.vscode
+
+# Ignore everything in project
+project
+
+# Ignore build output files
+target
+
+# Misc files
+.DS_Store
